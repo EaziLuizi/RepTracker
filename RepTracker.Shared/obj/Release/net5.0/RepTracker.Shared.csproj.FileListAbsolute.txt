@@ -1,0 +1,11 @@
+C:\Dev2022\RepTracker\RepTracker.Shared\bin\Release\net5.0\RepTracker.Shared.deps.json
+C:\Dev2022\RepTracker\RepTracker.Shared\bin\Release\net5.0\RepTracker.Shared.dll
+C:\Dev2022\RepTracker\RepTracker.Shared\bin\Release\net5.0\ref\RepTracker.Shared.dll
+C:\Dev2022\RepTracker\RepTracker.Shared\bin\Release\net5.0\RepTracker.Shared.pdb
+C:\Dev2022\RepTracker\RepTracker.Shared\obj\Release\net5.0\RepTracker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev2022\RepTracker\RepTracker.Shared\obj\Release\net5.0\RepTracker.Shared.AssemblyInfoInputs.cache
+C:\Dev2022\RepTracker\RepTracker.Shared\obj\Release\net5.0\RepTracker.Shared.AssemblyInfo.cs
+C:\Dev2022\RepTracker\RepTracker.Shared\obj\Release\net5.0\RepTracker.Shared.csproj.CoreCompileInputs.cache
+C:\Dev2022\RepTracker\RepTracker.Shared\obj\Release\net5.0\RepTracker.Shared.dll
+C:\Dev2022\RepTracker\RepTracker.Shared\obj\Release\net5.0\ref\RepTracker.Shared.dll
+C:\Dev2022\RepTracker\RepTracker.Shared\obj\Release\net5.0\RepTracker.Shared.pdb

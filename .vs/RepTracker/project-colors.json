@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a30e6579-4dd2-457a-a8d1-89aea2009cc5": {
+      "ProjectGuid": "a30e6579-4dd2-457a-a8d1-89aea2009cc5",
+      "DisplayName": "RepTracker",
+      "ColorIndex": 0
+    },
+    "2ab53984-d552-4d92-ae6e-9f9780f66ead": {
+      "ProjectGuid": "2ab53984-d552-4d92-ae6e-9f9780f66ead",
+      "DisplayName": "RepTracker.Shared",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5dc5f63c-afa5-4f15-8f0f-aa9dd2cc7588": {
+      "ProjectGuid": "5dc5f63c-afa5-4f15-8f0f-aa9dd2cc7588",
+      "DisplayName": "RepTracker.Api",
+      "ColorIndex": 2
+    },
+    "2b910352-1c93-4abd-a55c-f2caf671d166": {
+      "ProjectGuid": "2b910352-1c93-4abd-a55c-f2caf671d166",
+      "DisplayName": "RepTracker.Library",
+      "ColorIndex": 3
+    },
+    "39363a6b-e6d2-4392-8a17-6edefde30700": {
+      "ProjectGuid": "39363a6b-e6d2-4392-8a17-6edefde30700",
+      "DisplayName": "RepTracker.ServerSide",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
